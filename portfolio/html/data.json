@@ -1,0 +1,256 @@
+{
+  "marketing": [
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/ktp/rushPosterINTEREST copy.jpeg",
+          "alt": "blue and orange technology themed rush promotional flyer"
+        }
+      ],
+      "description": "Rush Promotional Poster - Photoshop"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/hyperloop/Pink Bold Modern Music Event Announcement Poster (Billboard (Square)).jpg",
+          "alt": "pink and black informational instagram post about networking workshop"
+        }
+      ],
+      "description": "Networking Workshop Flyer - Canva"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/ktp/1 copy 2.jpeg",
+          "alt": "white and dark blue technology themed instagram post about the organization's values"
+        }
+      ],
+      "description": "Informational Instagram Post - Canva"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/ktp/rush1 copy 2.jpeg",
+          "alt": "vapor wave colored, beach themed instagram post cover that displays text, rush 2024 for promotional initatives"
+        }
+      ],
+      "description": "Rush Instagram Post - Canva"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/ktp/Box Logo.png",
+          "alt": "white logo with a dark blue background"
+        }
+      ],
+      "description": "See More on Social Media",
+      "links": [
+        {
+          "url": "https://www.instagram.com/ktpboulder/",
+          "text": "Visit Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/ktpboulder/?viewAsMember=true",
+          "text": "Visit LinkedIn"
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/hyperloop/1.jpg",
+          "alt": "white background with three oval shaped pictures with executive team member headshots"
+        }
+      ],
+      "description": "Executive Team Introduction - Canva"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/hyperloop/1.jpg-intro.jpg",
+          "alt": "a tunnel boring machine that is held up by a support stand, on top of a rendered minecraft block with discriptive event detail text above"
+        }
+      ],
+      "description": "Promotional Flyer - Canva"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/hyperloop/Screenshot 2024-11-15 at 3.36.42 PM.png",
+          "alt": "gold and black background with white text boxes and informational text and images"
+        }
+      ],
+      "description": "Montly Newsletter Tempelate - Canva"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/ktp/hyperloop_logo.jpeg",
+          "alt": "CU hyperloop logo in the form of 2 hexagons with a buffalo head colored brown with yellow C.U. letters in the outline of the hexagons"
+        }
+      ],
+      "description": "See More on Social Media",
+      "links": [
+        {
+          "url": "https://www.instagram.com",
+          "text": "Visit Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/cu-hyperloop/?viewAsMember=true",
+          "text": "Visit LinkedIn"
+        }
+      ]
+    }
+  ],
+  "hobbies": [
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/IMG_8405.jpeg",
+          "alt": "green, yellow, and blue colored landscape watercolor painting of mountians in the summer with a swirly blue aky"
+        },
+        {
+          "src": "/portfolio/images/IMG_8447.jpeg",
+          "alt": "2 water color paintings of a beach landscape, one has color seperated into individual horizontal lines, the other is a more realistic rocky beach landscape with a vivid red sunset and blue ocean"
+        },
+        {
+          "src": "/portfolio/images/IMG_8448.jpeg",
+          "alt": "an abstract mountian scape watercolor painting with block like areas on the mountians resembeling show and a dark and colorful foreground resembling grass in the winter"
+        }
+      ],
+      "description": "Water Color Paintings"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/IMG_8393.jpeg",
+          "alt": "vivid acrylic painting with lots of small shaped and colors together"
+        },
+        {
+          "src": "/portfolio/images/IMG_8449.jpeg",
+          "alt": "realistic painting of a green frog on a green leaf that is upclose"
+        },
+        {
+          "src": "/portfolio/images/IMG_8450.jpeg",
+          "alt": "exaggerated colorful lanscape painting of a zion utah canyon in the summer"
+        },
+        {
+          "src": "/portfolio/images/IMG_8453.jpeg",
+          "alt": "realistic painting of aspen treen in a cole forrest at sunset"
+        }
+      ],
+      "description": "Acrylic Paintings"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/IMG_0119.JPG",
+          "alt": "abstract colorful digital drawing with outlines of a face, eyes, and legs walking with many intricate lines and doodles"
+        },
+        {
+          "src": "/portfolio/images/IMG_0371.JPG",
+          "alt": "a warm toned drawing with curcles and lines intertwining with eachother"
+        },
+        {
+          "src": "/portfolio/images/IMG_0373.JPG",
+          "alt": "an abstract purple flower with a blue background and red and yellow lines in the background"
+        }
+      ],
+      "description": "Digital Drawings"
+    },
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/Screenshot 2024-11-26 at 6.35.49 PM.png",
+          "alt": "a screenshot of a photo collage site that has a blue background and images of red utah rocks with text that says photo collage"
+        }
+      ],
+      "description": "Photo Collage",
+      "links": [
+        {
+          "url": "https://parkerallen13.github.io/wa/wa7.html",
+          "text": "View Full Collage"
+        }
+      ]
+    }
+  ],
+  "webdev": [
+    {
+      "images": [
+        {
+          "src": "/portfolio/images/Screenshot 2025-04-28 at 4.34.30 PM.png",
+          "alt": "a screenshot of a figma app front page"
+        }
+      ],
+      "description": "Resturaunt Website Mock-up made using Figma",
+      "links": [
+        {
+          "url": "https://www.figma.com/proto/3AHENCpWvmMfSDFgZhoIUV/Central-Market?page-id=0%3A1&node-id=66-143&p=f&viewport=-3%2C-167%2C0.19&t=tdqEhK6flU1xBVwm-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3",
+          "text": "Site Demo"
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "src": "/img/Screenshot 2024-11-25 at 9.17.41 PM.png",
+          "alt": "a screenshot of a Story Generator site that is dark blue with a light blue background and text of a random story that was generated"
+        }
+      ],
+      "description": "Story Generator made using JavaScript.",
+      "links": [
+        {
+          "url": "https://parkerallen13.github.io/wa/wa10.html",
+          "text": "Generate Random Story"
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "src": "/img/Screenshot 2024-11-25 at 10.28.27 PM.png",
+          "alt": "a screenshot of a site with a green background, multiple white textboxes with yellow buttons that preform different java script functions in a generated box above when text is entered and the button is pressed"
+        }
+      ],
+      "description": "Function Methods - JavaScript and CSS.",
+      "links": [
+        {
+          "url": "https://parkerallen13.github.io/ica/ica11.html",
+          "text": "Explore Function Methods"
+        }
+      ]
+    },
+    {
+      "images": [
+        {
+          "src": "/img/Screenshot 2024-11-25 at 9.17.59 PM.png",
+          "alt": "a screenshot of a random story generator with a yellow background, red text, and a random image and joke that regenerates when a pink button is pressed"
+        }
+      ],
+      "description": "Comic Generator using JSON and JavaScript.",
+      "links": [
+        {
+          "url": "https://parkerallen13.github.io/wa/a12/a12.html",
+          "text": "View Comic Generator"
+        }
+      ]
+    }
+ ,
+  
+    {
+      "images": [
+        {
+          "src": "/img/Screenshot 2024-11-25 at 10.12.44 PM.png",
+          "alt": " a screenshot of a joke generator website that is pink with a bright green button that generates a random chuck norris joke when pressed"
+        }
+      ],
+      "description": "Joke Generator using JavaScript and API.",
+      "links": [
+        {
+          "url": "https://parkerallen13.github.io/wa/wk_12.html",
+          "text": "Generate a Random Joke"
+        }
+      ]
+    }
+  ]
+}

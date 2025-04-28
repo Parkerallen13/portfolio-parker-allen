@@ -1,0 +1,274 @@
+body {
+  font-family: "M PLUS Code Latin", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: rgb(241, 249, 249);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  background-color: lightgray;
+  text-align: center;
+  display: flex;
+  padding: 20px;
+  border-radius: 10px;
+
+}
+
+.about-me img {
+max-width: 350px;
+}
+
+.about-me-item {
+  margin: 80px;
+  font-size: 25px;
+  line-height: 1.6;
+}
+
+.subject-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 22px;
+  max-width: 900px;
+  font-family: "Lora", serif;
+  margin: 10px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-family: "M PLUS Code Latin", monospace;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 30px;
+  margin: 20px 0;
+}
+
+a {
+  font-size: 25px;
+  color: darkcyan;
+  transition: color 0.4s;
+}
+
+a:hover {
+  color: #005f73;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(75, 72, 85);
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.nav-item {
+  display: flex;
+  margin: 0 30px;
+}
+
+.nav-item a {
+  font-size: 30px;
+  color: lightyellow;
+}
+
+.header h1,
+.header-marketing h1 {
+  font-size: 62px;
+  display: flex;
+  justify-content: center;
+  color: #3b2c20;
+  margin: 80px 0;
+}
+
+.header-marketing h1 {
+  font-size: 60px;
+  margin-top: 80px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 50px;
+  justify-content: center;
+}
+
+.footer p,
+.footer img {
+  margin: 20px;
+}
+
+.box-container-marketing,
+.box-container-webdev,
+.box-container-hobbies {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 50px;
+  gap: 80px;
+}
+
+.box {
+  height: auto;
+  max-width: 500px;
+  background-color: lightgray;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.box img {
+  max-width: 350px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.collage-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+.collage-img {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.collage-img img {
+  max-width: 350px;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* scroll settings */
+
+.scroll {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  margin: 50px 0;
+}
+
+.scroll img {
+  height: 200px;
+  width: auto;
+  margin: 0 10px;
+}
+
+.m-scroll {
+  display: flex;
+  animation: scrollText 30s linear infinite;
+  margin: 0;
+  font-size: 0;
+  white-space: nowrap;
+  justify-content: flex-start;
+}
+
+
+@keyframes scrollText {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* responsiveness settings */
+
+@media (max-width: 768px) {
+  p {
+    font-size: 20px;
+  }
+
+  .header h1,
+  .header-marketing h1 {
+    font-size: 40px;
+    margin: 10px;
+    text-align: center;
+  }
+
+  .about-me {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-me img {
+    max-width: 200px;
+  }
+
+  .about-me p {
+    max-width: 60%;
+  }
+
+  .nav-bar {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .nav-item {
+    margin: 10px;
+  }
+
+  .nav-item a {
+    font-size: 20px;
+  }
+
+  .scroll {
+    height: 150px;
+  }
+
+  .scroll img {
+    height: 120px;
+  }
+
+  .box-container-marketing,
+  .box-container-webdev,
+  .box-container-hobbies {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .box {
+    width: 90%;
+    padding: 10px;
+  }
+
+  .footer {
+    flex-direction: column;
+  }
+
+  .footer p,
+  .footer img {
+    margin: 10px;
+  }
+}
