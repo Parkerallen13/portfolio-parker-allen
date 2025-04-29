@@ -5,9 +5,11 @@ function loadData() {
           console.log(data);
 
           // call each function
-          renderContent("box-container-marketing", data.marketing);
+          renderContent("box-container-marketing-ktp", data["marketing-ktp"]);
+          renderContent("box-container-marketing-hyperloop", data["marketing-hyperloop"]);
           renderContent("box-container-hobbies", data.hobbies);
           renderContent("box-container-webdev", data.webdev);
+          renderContent("box-container-figma", data.figma);
 
           // Insert "json" header after the first two webdev items
           const webdevContainer = document.querySelector(".box-container-webdev");
@@ -15,7 +17,7 @@ function loadData() {
 
           if (afterJava.length > 2) {
               const header = document.createElement("h2");
-              header.textContent = "JSON";
+            //   header.textContent = "JSON";
               webdevContainer.insertBefore(header, afterJava[2]);
           }
 
