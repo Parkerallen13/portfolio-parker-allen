@@ -35,6 +35,7 @@ max-width: 350px;
   margin: 80px;
   font-size: 25px;
   line-height: 1.6;
+  text-align: left;
 }
 
 .subject-title {
@@ -259,6 +260,11 @@ justify-content: center;
     height: 120px;
   }
 
+  .nav-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
   .box-container-marketing-ktp,
   .box-container-marketing-hyperloop,
   .box-container-webdev,
@@ -280,5 +286,107 @@ justify-content: center;
   .footer p,
   .footer img {
     margin: 10px;
+  }
+}
+
+/* Medium screens (tablets & small laptops) */
+@media (max-width: 1024px) {
+  .nav-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-me {
+    margin: 40px;
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .about-me-item {
+    margin: 40px 20px;
+    font-size: 22px;
+  text-align: left;
+
+  }
+
+  .about-me img {
+    max-width: 250px;
+  }
+
+  .header h1,
+  .header-marketing h1 {
+    font-size: 48px;
+    margin: 40px 0;
+  }
+
+  .nav-item a {
+    font-size: 24px;
+  }
+
+  .box img {
+    max-width: 300px;
+  }
+}
+
+/* Small screens (phones) */
+@media (max-width: 480px) {
+  .about-me {
+    margin: 20px;
+    padding: 15px;
+  }
+
+  .about-me-item {
+    font-size: 18px;
+    margin: 20px 10px;
+  text-align: left;
+
+  }
+
+  .about-me img {
+    max-width: 180px;
+  }
+
+  p {
+    font-size: 18px;
+    margin: 8px;
+  }
+
+  .nav-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  .header h1,
+  .header-marketing h1 {
+    font-size: 32px;
+    margin: 20px;
+  }
+
+  .nav-item a {
+    font-size: 18px;
+  }
+
+  .box {
+    padding: 10px;
+  }
+
+  .box img {
+    max-width: 200px;
+  }
+
+  .footer {
+    margin: 20px;
+  }
+
+  .scroll {
+    height: 100px;
+  }
+
+  .scroll img {
+    height: 100px;
   }
 }
