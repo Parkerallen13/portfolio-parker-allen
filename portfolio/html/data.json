@@ -283,7 +283,7 @@
   {
     "images": [
       {
-        "src": "/ParkerAllenPortfolio/images/webdev1.png",
+        "src": "../images/webdev1.png",
         "alt": "a screenshot of a Story Generator site that is dark blue with a light blue background and text of a random story that was generated"
       }
     ],
