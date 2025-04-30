@@ -281,12 +281,7 @@
 
  "webdev": [
   {
-    "images": [
-      {
-        "src": "../images/webdev1.png",
-        "alt": "a screenshot of a Story Generator site that is dark blue with a light blue background and text of a random story that was generated"
-      }
-    ],
+    
     "description": "Story Generator made using JavaScript.",
     "links": [
       {
@@ -296,27 +291,16 @@
     ]
   },
   {
-    "images": [
-      {
-        "src": "../images/webdev2.png",
-        "alt": "a screenshot of a site with a green background, multiple white textboxes with yellow buttons that perform different JavaScript functions in a generated box above when text is entered and the button is pressed"
-      }
-    ],
+    
     "description": "Function Methods - JavaScript and CSS.",
     "links": [
       {
-        "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/ica/ica11.html",
         "text": "Explore Function Methods"
       }
     ]
   },
   {
-    "images": [
-      {
-        "src": "../images/webdev3.png",
-        "alt": "a screenshot of a random story generator with a yellow background, red text, and a random image and joke that regenerates when a pink button is pressed"
-      }
-    ],
+    
     "description": "Comic Generator using JSON and JavaScript.",
     "links": [
       {
