@@ -276,6 +276,23 @@
     ]
   }
 ],
+"figma": [
+  {
+    "images": [
+      {
+        "src": "/portfolio/images/Screenshot 2025-04-28 at 4.34.30 PM.png",
+        "alt": "a screenshot of a site with a green background, multiple white textboxes with yellow buttons that preform different java script functions in a generated box above when text is entered and the button is pressed"
+      }
+    ],
+    "description": "Resturaunt Website Demo",
+    "links": [
+      {
+        "url": "https://www.figma.com/proto/3AHENCpWvmMfSDFgZhoIUV/Central-Market?page-id=0%3A1&node-id=66-143&p=f&viewport=-3%2C-167%2C0.19&t=ScQ5pNcoJ9vEFnpP-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3",
+        "text": "View Full Demo"
+      }
+    ]
+  }
+],
 
   "webdev": [
     {
