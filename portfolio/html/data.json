@@ -298,14 +298,14 @@
     {
       "images": [
         {
-          "src": "/img/Screenshot 2024-11-25 at 9.17.41 PM.png",
+          "src": "../img/Screenshot 2024-11-25 at 9.17.41 PM.png",
           "alt": "a screenshot of a Story Generator site that is dark blue with a light blue background and text of a random story that was generated"
         }
       ],
       "description": "Story Generator made using JavaScript.",
       "links": [
         {
-          "url": "https://parkerallen13.github.io/wa/wa10.html",
+          "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/wa/wa10.html",
           "text": "Generate Random Story"
         }
       ]
@@ -313,14 +313,14 @@
     {
       "images": [
         {
-          "src": "/img/Screenshot 2024-11-25 at 10.28.27 PM.png",
+          "src": "../img/Screenshot 2024-11-25 at 10.28.27 PM.png",
           "alt": "a screenshot of a site with a green background, multiple white textboxes with yellow buttons that preform different java script functions in a generated box above when text is entered and the button is pressed"
         }
       ],
       "description": "Function Methods - JavaScript and CSS.",
       "links": [
         {
-          "url": "https://parkerallen13.github.io/ica/ica11.html",
+          "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/ica/ica11.html",
           "text": "Explore Function Methods"
         }
       ]
@@ -328,14 +328,14 @@
     {
       "images": [
         {
-          "src": "/img/Screenshot 2024-11-25 at 9.17.59 PM.png",
+          "src": "../img/Screenshot 2024-11-25 at 9.17.59 PM.png",
           "alt": "a screenshot of a random story generator with a yellow background, red text, and a random image and joke that regenerates when a pink button is pressed"
         }
       ],
       "description": "Comic Generator using JSON and JavaScript.",
       "links": [
         {
-          "url": "https://parkerallen13.github.io/wa/a12/a12.html",
+          "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/wa/a12/a12.html",
           "text": "View Comic Generator"
         }
       ]
@@ -343,14 +343,14 @@
     {
       "images": [
         {
-          "src": "/img/Screenshot 2024-11-25 at 10.12.44 PM.png",
+          "src": "../img/Screenshot 2024-11-25 at 10.12.44 PM.png",
           "alt": " a screenshot of a joke generator website that is pink with a bright green button that generates a random chuck norris joke when pressed"
         }
       ],
       "description": "Joke Generator using JavaScript and API.",
       "links": [
         {
-          "url": "https://parkerallen13.github.io/wa/wk_12.html",
+          "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/wa/wk_12.html",
           "text": "Generate a Random Joke"
         }
       ]
