@@ -259,21 +259,6 @@
       }
     ],
     "description": ""
-  },
-  {
-    "images": [
-      {
-        "src": "../images/Screenshot 2024-11-26 at 6.35.49 PM.png",
-        "alt": "a screenshot of a photo collage site that has a blue background and images of red utah rocks with text that says photo collage"
-      }
-    ],
-    "description": "",
-    "links": [
-      {
-        "url": "https://parkerallen13.github.io/wa/wa7.html",
-        "text": "View Full Collage"
-      }
-    ]
   }
 ],
 "figma": [
@@ -298,7 +283,7 @@
     {
       "images": [
         {
-          "src": "../img/Screenshot 2024-11-25 at 9.17.41 PM.png",
+          "src": "/portfolio/images/Screenshot 2025-04-29 at 8.30.16 PM.png",
           "alt": "a screenshot of a Story Generator site that is dark blue with a light blue background and text of a random story that was generated"
         }
       ],
@@ -313,7 +298,7 @@
     {
       "images": [
         {
-          "src": "../img/Screenshot 2024-11-25 at 10.28.27 PM.png",
+          "src": "/portfolio/images/Screenshot 2025-04-29 at 8.30.23 PM.png",
           "alt": "a screenshot of a site with a green background, multiple white textboxes with yellow buttons that preform different java script functions in a generated box above when text is entered and the button is pressed"
         }
       ],
@@ -328,7 +313,7 @@
     {
       "images": [
         {
-          "src": "../img/Screenshot 2024-11-25 at 9.17.59 PM.png",
+          "src": "/portfolio/images/Screenshot 2025-04-29 at 8.30.31 PM.png",
           "alt": "a screenshot of a random story generator with a yellow background, red text, and a random image and joke that regenerates when a pink button is pressed"
         }
       ],
@@ -337,21 +322,6 @@
         {
           "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/wa/a12/a12.html",
           "text": "View Comic Generator"
-        }
-      ]
-    },
-    {
-      "images": [
-        {
-          "src": "../img/Screenshot 2024-11-25 at 10.12.44 PM.png",
-          "alt": " a screenshot of a joke generator website that is pink with a bright green button that generates a random chuck norris joke when pressed"
-        }
-      ],
-      "description": "Joke Generator using JavaScript and API.",
-      "links": [
-        {
-          "url": "https://parkerallen13.github.io/ParkerAllenPortfolio/wa/wk_12.html",
-          "text": "Generate a Random Joke"
         }
       ]
     }
