@@ -4,7 +4,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/ktp/rush-poster.png",
+          "src": "../images/ktp/rush-poster.png",
           "alt": "blue and orange technology themed rush promotional flyer"
         }
       ],
@@ -12,7 +12,7 @@
     }, {
       "images": [
         {
-          "src": "/portfolio/images/ktp/formal-poster.png",
+          "src": "../images/ktp/formal-poster.png",
           "alt": "blue and orange technology themed rush promotional flyer"
         }
       ],
@@ -21,7 +21,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/ktp/rushPosterINTEREST copy.jpeg",
+          "src": "../images/ktp/rushPosterINTEREST copy.jpeg",
           "alt": "blue and orange technology themed rush promotional flyer"
         }
       ],
@@ -30,7 +30,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/Pink Bold Modern Music Event Announcement Poster (Billboard (Square)).jpg",
+          "src": "../images/hyperloop/Pink Bold Modern Music Event Announcement Poster (Billboard (Square)).jpg",
           "alt": "pink and black informational instagram post about networking workshop"
         }
       ],
@@ -39,7 +39,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/ktp/1 copy 2.jpeg",
+          "src": "../images/ktp/1 copy 2.jpeg",
           "alt": "white and dark blue technology themed instagram post about the organization's values"
         }
       ],
@@ -48,7 +48,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/ktp/rush1 copy 2.jpeg",
+          "src": "../images/ktp/rush1 copy 2.jpeg",
           "alt": "vapor wave colored, beach themed instagram post cover that displays text, rush 2024 for promotional initatives"
         }
       ],
@@ -57,7 +57,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/ktp/Box Logo.png",
+          "src": "../images/ktp/Box Logo.png",
           "alt": "white logo with a dark blue background"
         }
       ],
@@ -79,7 +79,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/newsletter.png",
+          "src": "../images/hyperloop/newsletter.png",
           "alt": "white background with three oval shaped pictures with executive team member headshots"
         }
       ],
@@ -88,7 +88,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/image.png",
+          "src": "../images/hyperloop/image.png",
           "alt": "white background with three oval shaped pictures with executive team member headshots"
         }
       ],
@@ -97,7 +97,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/sponsors.png",
+          "src": "../images/hyperloop/sponsors.png",
           "alt": "white background with three oval shaped pictures with executive team member headshots"
         }
       ],
@@ -106,7 +106,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/Screenshot 2025-04-29 at 4.03.56 PM.png",
+          "src": "../images/hyperloop/Screenshot 2025-04-29 at 4.03.56 PM.png",
           "alt": "white background with three oval shaped pictures with executive team member headshots"
         }
       ],
@@ -115,7 +115,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/Screenshot 2025-04-29 at 3.39.09 PM.png",
+          "src": "../images/Screenshot 2025-04-29 at 3.39.09 PM.png",
           "alt": "white logo with a dark blue background"
         }
       ],
@@ -133,7 +133,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/1.jpg",
+          "src": "../images/hyperloop/1.jpg",
           "alt": "white background with three oval shaped pictures with executive team member headshots"
         }
       ],
@@ -142,7 +142,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/hyperloop/1.jpg-intro.jpg",
+          "src": "../images/hyperloop/1.jpg-intro.jpg",
           "alt": "a tunnel boring machine that is held up by a support stand, on top of a rendered minecraft block with discriptive event detail text above"
         }
       ],
@@ -152,7 +152,7 @@
     {
       "images": [
         {
-          "src": "/portfolio/images/ktp/hyperloop_logo.jpeg",
+          "src": "../images/ktp/hyperloop_logo.jpeg",
           "alt": "CU hyperloop logo in the form of 2 hexagons with a buffalo head colored brown with yellow C.U. letters in the outline of the hexagons"
         }
       ],
@@ -173,7 +173,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8405.jpeg",
+        "src": "../images/IMG_8405.jpeg",
         "alt": "green, yellow, and blue colored landscape watercolor painting of mountians in the summer with a swirly blue aky"
       }
     ],
@@ -182,7 +182,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8447.jpeg",
+        "src": "../images/IMG_8447.jpeg",
         "alt": "2 water color paintings of a beach landscape, one has color seperated into individual horizontal lines, the other is a more realistic rocky beach landscape with a vivid red sunset and blue ocean"
       }
     ],
@@ -191,7 +191,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8448.jpeg",
+        "src": "../images/IMG_8448.jpeg",
         "alt": "an abstract mountian scape watercolor painting with block like areas on the mountians resembeling show and a dark and colorful foreground resembling grass in the winter"
       }
     ],
@@ -200,7 +200,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8393.jpeg",
+        "src": "../images/IMG_8393.jpeg",
         "alt": "vivid acrylic painting with lots of small shaped and colors together"
       }
     ],
@@ -209,7 +209,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8449.jpeg",
+        "src": "../images/IMG_8449.jpeg",
         "alt": "realistic painting of a green frog on a green leaf that is upclose"
       }
     ],
@@ -218,7 +218,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8450.jpeg",
+        "src": "../images/IMG_8450.jpeg",
         "alt": "exaggerated colorful lanscape painting of a zion utah canyon in the summer"
       }
     ],
@@ -227,7 +227,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_8453.jpeg",
+        "src": "../images/IMG_8453.jpeg",
         "alt": "realistic painting of aspen treen in a cole forrest at sunset"
       }
     ],
@@ -236,7 +236,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_0119.JPG",
+        "src": "../images/IMG_0119.JPG",
         "alt": "abstract colorful digital drawing with outlines of a face, eyes, and legs walking with many intricate lines and doodles"
       }
     ],
@@ -245,7 +245,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_0371.JPG",
+        "src": "../images/IMG_0371.JPG",
         "alt": "a warm toned drawing with curcles and lines intertwining with eachother"
       }
     ],
@@ -254,7 +254,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/IMG_0373.JPG",
+        "src": "../images/IMG_0373.JPG",
         "alt": "an abstract purple flower with a blue background and red and yellow lines in the background"
       }
     ],
@@ -263,7 +263,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/Screenshot 2024-11-26 at 6.35.49 PM.png",
+        "src": "../images/Screenshot 2024-11-26 at 6.35.49 PM.png",
         "alt": "a screenshot of a photo collage site that has a blue background and images of red utah rocks with text that says photo collage"
       }
     ],
@@ -280,7 +280,7 @@
   {
     "images": [
       {
-        "src": "/portfolio/images/Screenshot 2025-04-28 at 4.34.30 PM.png",
+        "src": "../images/Screenshot 2025-04-28 at 4.34.30 PM.png",
         "alt": "a screenshot of a site with a green background, multiple white textboxes with yellow buttons that preform different java script functions in a generated box above when text is entered and the button is pressed"
       }
     ],
